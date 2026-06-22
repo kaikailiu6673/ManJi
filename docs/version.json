@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.1",
+  "latestBuild": "2",
+  "title": "发现新版本",
+  "message": "已有新版本可用，建议更新后继续使用。",
+  "releaseNotes": ["修复若干体验问题"],
+  "downloadURL": "你的下载地址",
+  "appStoreURL": "",
+  "isForceUpdate": false
+}
